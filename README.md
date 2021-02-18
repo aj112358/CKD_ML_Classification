@@ -5,15 +5,7 @@ This project is an application of ML binary classification where we attempt to c
 
 ## Project Goals
 ## Hardware and Software Used
-
-
-
-
-
 ## Data Analysis Summary
-
-
-
 ## Data Collection Methodology
 
 ## Definitions of Dataset Attributes
@@ -29,16 +21,16 @@ rbc | ??? | red blood cells | ???
 pc | ??? | pus cell | ???
 pcc | ??? | pus cell clumps | ???
 ba | ??? | bacteria | ???
-bgr | ??? | blood glucose random | ???
-bu | ??? | blood urea | ???
-sc | ??? | serum creatinine | ???
-sod | ??? | sodium | ???
-pot | ??? | potassium | ???
-hemo | ??? | hemoglobin | ???
+bgr | mgs/dl | blood glucose random | ???
+bu | mgs/dl | blood urea | ???
+sc | mgs/dl | serum creatinine | ???
+sod | mEq/L | sodium | ???
+pot | mEq/L | potassium | ???
+hemo | gms | hemoglobin | ???
 pcr | ??? | packed cell volume | ???
-wbcc | ??? | white blood cell count | ???
-rbcc | ??? | red blood cell count | ???
-htn | ??? | hypertension | ???
+wbcc | cells/cumm | white blood cell count | ???
+rbcc | millions/cmm | red blood cell count | ???
+htn | Yes/No | hypertension | ???
 dm | ??? | diabetes mellitus | ???
 cad | ??? | coronary artery disease | ???
 appet | ??? | appetite | ???
@@ -47,19 +39,11 @@ ane | ??? | anemia | ???
 class | ??? | class | ???
 
 ## Data Cleaning
-
 ## Feature Engineering
-
 ## Exploratory Data Analysis
-
 ## ML Model Selection
-
 ## Conclusion
-
 ## Future Steps
-
 ## Authors
-
 ## License
-
 ## Acknowledgements
