@@ -24,10 +24,10 @@ ag | years | age | Age of each patient participant. | CKD can present in individ
 bp | mmHg | blood pressure | Blood pressure of each patient participant, appearing to be only the diastolic measurement. | Generally higher.
 sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1 (because urine has dissolved salts/minerals). Closer to 1.000 in CKD patients, as kidneys lose ability to reabsorb water.
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
-su | ??? | sugar | Level of urine glucose. | ----
+su | ??? | sugar | Level of urine glucose. | No clear relationship between glycosuria and CKD. (*Potentially* elevated levels through CKD progression)
 rbc | Normal/Abnormal | red blood cells | Level of RBCs in the urine. | ----
 pc | Normal/Abnormal | pus cell | Level of pus cells in the urine. | ----
-pcc | Present/Not Present | pus cell clumps | Presence of pus cell clumps in the urine. | Presence indicates signs of an infections, usually(?) as a UTI (indeed, can involve ureters, kidneys, upper urinary tract, in addition to bladder and urethra.
+pcc | Present/Not Present | pus cell clumps | Presence of pus cell clumps in the urine. | Presence indicates signs of an infections, usually(?) as a UTI (indeed, can involve ureters, kidneys, upper urinary tract, in addition to bladder and urethra. No research found directly related to CKD.
 ba | Present/Not Present | bacteria | Presence of bacteria in the urine. | ----
 bgr | mgs/dl | blood glucose random | Random measurement of blood glucose levels. | Lower blood glucose levels in CKD patients.
 bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
@@ -82,6 +82,9 @@ https://pubmed.ncbi.nlm.nih.gov/24527682/
 https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2019/09/30/15/47/chronic-kidney-disease-and-coronary-artery-disease
 https://www.niddk.nih.gov/health-information/kidney-disease/anemia
 https://www.jahjournal.org/article.asp?issn=1658-5127;year=2019;volume=10;issue=2;spage=61;epage=66;aulast=Shastry
+https://rarediseases.org/rare-diseases/renal-glycosuria/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5180243/
+
 
 Inconclusive studies about UNa levels and CKD:
 https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-016-0338-z
