@@ -21,19 +21,19 @@ Attribute | Units | Meaning | Description | Relation to CKD
 ---- | ---- | ---- | ---- | ----
 ag | years | age | Age of each patient participant. | CKD can present in individuals of any age
 bp | mmHg | blood pressure | Blood pressure of each patient participant. | Generally higher.
-sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1.0 (because urine has dissolved salts/minerals). Lower in CKD patients, as kidneys lose ability to reabsorb water.
+sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1 (because urine has dissolved salts/minerals). Closer to 1.000 in CKD patients, as kidneys lose ability to reabsorb water.
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
 su | ??? | sugar | ??? | ----
 rbc | ??? | red blood cells | ??? | ----
 pc | ??? | pus cell | ??? | ----
 pcc | ??? | pus cell clumps | ??? | ----
 ba | ??? | bacteria | ??? | ----
-bgr | mgs/dl | blood glucose random | ??? | ----
-bu | mgs/dl | blood urea | ??? | ----
-sc | mgs/dl | serum creatinine | ??? | ----
+bgr | mgs/dl | blood glucose random | ??? | Lower blood glucose levels in CKD patients.
+bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
+sc | mgs/dl | serum creatinine | Creatinine is a waste product in blood resulting from muscle activity. | Higher in patients with CKD.
 sod | mEq/L | sodium | ??? | ----
 pot | mEq/L | potassium | ??? | ----
-hemo | gms | hemoglobin | ??? | ----
+hemo | gms | hemoglobin | A protein in RBCs that carries oxygen from the lungs to body tissues, and carries carbon dioxide in reverse. | ----
 pcr | ??? | packed cell volume | ??? | ----
 wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usually measured in microliters or cubic-millimeters. | Elevated WBCC is a well-known predictor of CKD, except in elderly patients who may exhibit low WBC (due to being in an already diseased state).
 rbcc | millions/cmm | red blood cell count | ??? | ----
@@ -71,4 +71,6 @@ https://www.kidney.org/atoz/content/diabetes
 https://www.sciencedaily.com/releases/2016/08/160815215920
 https://www.rnceus.com/ua/uasg
 https://medlineplus.gov/ency/article/003608.htm
-
+https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-low-blood-sugar-and-kidney-disease.pdf
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689888/
+https://www.kidney.org/atoz/content/understanding-your-lab-values
