@@ -20,7 +20,7 @@ DMLS -> Dimensionless
 Attribute | Units | Meaning | Description | Relation to CKD
 ---- | ---- | ---- | ---- | ----
 ag | years | age | Age of each patient participant. | ----
-bp | mmHg | blood pressure | Blood pressure of each patient participant. | ----
+bp | mmHg | blood pressure | Blood pressure of each patient participant. | Generally higher.
 sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | ----
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
 su | ??? | sugar | ??? | ----
@@ -35,14 +35,14 @@ sod | mEq/L | sodium | ??? | ----
 pot | mEq/L | potassium | ??? | ----
 hemo | gms | hemoglobin | ??? | ----
 pcr | ??? | packed cell volume | ??? | ----
-wbcc | cells/mm3| white blood cell count | ??? | ----
+wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usually measured in microliters or cubic-millimeters. | Elevated WBCC is a well-known predictor of CKD, except in elderly patients who may exhibit low WBC (due to being in an already diseased state).
 rbcc | millions/cmm | red blood cell count | ??? | ----
 htn | Yes/No | hypertension | ??? | ----
 dm | Yes/No | diabetes mellitus | ??? | ----
 cad | Yes/No | coronary artery disease | ??? | ----
 appet | Good/Poor | Appetite | ??? | ----
-pe | Yes/No | pedal edema | ??? | ----
-ane | Yes/No | anemia | ??? | ----
+pe | Yes/No | pedal edema | Swelling of the foot, ankle, or lower leg resulting from excess fluid build up.  | Generally present in patients exhibiting CKD (need reference).
+ane | Yes/No | anemia | A condition where a person's blood has below-normal levels of RBCs or hemoglobin. | A common symptom in CKD patients.
 class | Yes/No | class | ??? | ----
 
 ## Exploratory Data Analysis
@@ -60,3 +60,9 @@ class | Yes/No | class | ??? | ----
 ## Authors
 ## License
 ## Acknowledgements
+
+## References
+https://pubmed.ncbi.nlm.nih.gov/28699033/
+https://ada.com/white-blood-cell-count/
+https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493
+https://www.niddk.nih.gov/health-information/kidney-disease/anemia
