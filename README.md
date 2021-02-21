@@ -2,10 +2,15 @@
 This project is an application of ML binary classification where we attempt to create a model to detect the presence of CKD in patients given some medical data/metrics.
 
 ## Problem Description
-
 ## Project Goals
+
+## Project Summary
+### Summary: EDA
+### Summary: Data Cleaning
+### Summary: Feature Engineering
+### Summary: Model Creation
+
 ## Hardware and Software Used
-## Data Analysis Summary
 ## Data Collection Methodology
 
 ## Definitions of Dataset Attributes
@@ -40,10 +45,16 @@ pe | Yes/No | pedal edema | ??? | ----
 ane | Yes/No | anemia | ??? | ----
 class | Yes/No | class | ??? | ----
 
+## Exploratory Data Analysis
 ## Data Cleaning
 ## Feature Engineering
-## Exploratory Data Analysis
-## ML Model Selection
+
+## Model Creation
+### Selection
+### Training
+### Evaluation
+### Improvement
+
 ## Conclusion
 ## Future Steps
 ## Authors
