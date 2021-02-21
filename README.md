@@ -40,8 +40,8 @@ wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usu
 rbcc | millions/cmm | red blood cell count | ??? | ----
 htn | Yes/No | hypertension | Higher than normal blood pressure. | Generally present in CKD patients.
 dm | Yes/No | diabetes mellitus | A disease which causes insufficient production of insulin, a hormone that regulates blood sugar. | A risk factor for KD; can injure the kidney blood vessels. The converse may also be true: Kidney failure can cause diabetes.
-cad | Yes/No | coronary artery disease | ??? | ----
-appet | Good/Poor | Appetite | A qualitative measure of the patient's appetite. | ----
+cad | Yes/No | coronary artery disease | A qualitative measure of whether a patient presented with coronary artery disease (major blood vessels in heart become damaged). | Appears to be an independent condition from CKD, but are risk factors of eachother. 
+appet | Good/Poor | Appetite | A qualitative measure of the patient's appetite. | CKD patients often experience poor appetite (need reference).
 pe | Yes/No | pedal edema | Swelling of the foot, ankle, or lower leg resulting from excess fluid build up. | Generally present in patients exhibiting CKD (need reference).
 ane | Yes/No | anemia | A condition where a person's blood has below-normal levels of RBCs or hemoglobin. | A common symptom in CKD patients.
 class | Yes/No | class | A patient exhibits CKD or not. | 
@@ -77,6 +77,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689888/
 https://www.kidney.org/atoz/content/understanding-your-lab-values
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422977/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919657/
+http://www.bcrenal.ca/resource-gallery/Documents/Management%20of%20Poor%20Appetite%20in%20Patients%20with%20Chronic%20Kidney%20Disease.pdf
+https://pubmed.ncbi.nlm.nih.gov/24527682/
+https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2019/09/30/15/47/chronic-kidney-disease-and-coronary-artery-disease
 
 
 Inconclusive studies about UNa levels and CKD:
