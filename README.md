@@ -33,8 +33,8 @@ bgr | mgs/dl | blood glucose random | ??? | Lower blood glucose levels in CKD pa
 bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
 sc | mgs/dl | serum creatinine | Creatinine is a waste product in blood resulting from muscle activity. | Higher in patients with CKD.
 sod | mEq/L | sodium | Urinary sodium levels. | Believed to be higher, but not enough evidence from studies (need reference).
-pot | mEq/L | potassium | ??? | ----
-hemo | gms | hemoglobin | A protein in RBCs that carries oxygen from the lungs to body tissues, and carries carbon dioxide in reverse. | ----
+pot | mEq/L | potassium | Urinary potassium levels. | Believed to be lower.
+hemo | gms | hemoglobin | A protein in RBCs that carries oxygen from the lungs to body tissues, and carries carbon dioxide in reverse. | Lower in patients with CKD.
 pcr | ??? | packed cell volume | ??? | ----
 wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usually measured in microliters or cubic-millimeters. | Elevated WBCC is a well-known predictor of CKD, except in elderly patients who may exhibit low WBC (due to being in an already diseased state).
 rbcc | millions/cmm | red blood cell count | ??? | ----
@@ -44,7 +44,7 @@ cad | Yes/No | coronary artery disease | ??? | ----
 appet | Good/Poor | Appetite | A qualitative measure of the patient's appetite. | ----
 pe | Yes/No | pedal edema | Swelling of the foot, ankle, or lower leg resulting from excess fluid build up. | Generally present in patients exhibiting CKD (need reference).
 ane | Yes/No | anemia | A condition where a person's blood has below-normal levels of RBCs or hemoglobin. | A common symptom in CKD patients.
-class | Yes/No | class | A patient exhibits CKD or not. | ----
+class | Yes/No | class | A patient exhibits CKD or not. | 
 
 ## Exploratory Data Analysis
 ## Data Cleaning
@@ -76,6 +76,7 @@ https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-low-blood-suga
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689888/
 https://www.kidney.org/atoz/content/understanding-your-lab-values
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422977/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919657/
 
 
 Inconclusive studies about UNa levels and CKD:
