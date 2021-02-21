@@ -37,13 +37,13 @@ hemo | gms | hemoglobin | ??? | ----
 pcr | ??? | packed cell volume | ??? | ----
 wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usually measured in microliters or cubic-millimeters. | Elevated WBCC is a well-known predictor of CKD, except in elderly patients who may exhibit low WBC (due to being in an already diseased state).
 rbcc | millions/cmm | red blood cell count | ??? | ----
-htn | Yes/No | hypertension | ??? | ----
-dm | Yes/No | diabetes mellitus | ??? | ----
+htn | Yes/No | hypertension | Higher than normal blood pressure. | Generally present in CKD patients.
+dm | Yes/No | diabetes mellitus | A disease which causes insufficient production of insulin, a hormone that regulates blood sugar. | A risk factor for KD; can injure the kidney blood vessels. The converse may also be true: Kidney failure can cause diabetes.
 cad | Yes/No | coronary artery disease | ??? | ----
-appet | Good/Poor | Appetite | ??? | ----
-pe | Yes/No | pedal edema | Swelling of the foot, ankle, or lower leg resulting from excess fluid build up.  | Generally present in patients exhibiting CKD (need reference).
+appet | Good/Poor | Appetite | A qualitative measure of the patient's appetite. | ----
+pe | Yes/No | pedal edema | Swelling of the foot, ankle, or lower leg resulting from excess fluid build up. | Generally present in patients exhibiting CKD (need reference).
 ane | Yes/No | anemia | A condition where a person's blood has below-normal levels of RBCs or hemoglobin. | A common symptom in CKD patients.
-class | Yes/No | class | ??? | ----
+class | Yes/No | class | A patient exhibits CKD or not. | ----
 
 ## Exploratory Data Analysis
 ## Data Cleaning
@@ -66,3 +66,6 @@ https://pubmed.ncbi.nlm.nih.gov/28699033/
 https://ada.com/white-blood-cell-count/
 https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493
 https://www.niddk.nih.gov/health-information/kidney-disease/anemia
+https://www.niddk.nih.gov/health-information/kidney-disease/high-blood-pressure
+https://www.kidney.org/atoz/content/diabetes
+https://www.sciencedaily.com/releases/2016/08/160815215920
