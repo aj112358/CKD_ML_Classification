@@ -19,9 +19,9 @@ DMLS -> Dimensionless
 
 Attribute | Units | Meaning | Description | Relation to CKD
 ---- | ---- | ---- | ---- | ----
-ag | years | age | Age of each patient participant. | ----
+ag | years | age | Age of each patient participant. | CKD can present in individuals of any age
 bp | mmHg | blood pressure | Blood pressure of each patient participant. | Generally higher.
-sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | ----
+sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1.0 (because urine has dissolved salts/minerals). Lower in CKD patients, as kidneys lose ability to reabsorb water.
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
 su | ??? | sugar | ??? | ----
 rbc | ??? | red blood cells | ??? | ----
@@ -69,3 +69,6 @@ https://www.niddk.nih.gov/health-information/kidney-disease/anemia
 https://www.niddk.nih.gov/health-information/kidney-disease/high-blood-pressure
 https://www.kidney.org/atoz/content/diabetes
 https://www.sciencedaily.com/releases/2016/08/160815215920
+https://www.rnceus.com/ua/uasg
+https://medlineplus.gov/ency/article/003608.htm
+
