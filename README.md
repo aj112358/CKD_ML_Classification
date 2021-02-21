@@ -16,6 +16,7 @@ This project is an application of ML binary classification where we attempt to c
 ## Definitions of Dataset Attributes
 
 DMLS -> Dimensionless
+Eq -> An *equivalent* is the amount of a substance that will react with a certain number of hydrogen ions
 
 Attribute | Units | Meaning | Description | Relation to CKD
 ---- | ---- | ---- | ---- | ----
@@ -31,7 +32,7 @@ ba | ??? | bacteria | ??? | ----
 bgr | mgs/dl | blood glucose random | ??? | Lower blood glucose levels in CKD patients.
 bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
 sc | mgs/dl | serum creatinine | Creatinine is a waste product in blood resulting from muscle activity. | Higher in patients with CKD.
-sod | mEq/L | sodium | ??? | ----
+sod | mEq/L | sodium | Urinary sodium levels. | Believed to be higher, but not enough evidence from studies (need reference).
 pot | mEq/L | potassium | ??? | ----
 hemo | gms | hemoglobin | A protein in RBCs that carries oxygen from the lungs to body tissues, and carries carbon dioxide in reverse. | ----
 pcr | ??? | packed cell volume | ??? | ----
@@ -74,3 +75,9 @@ https://medlineplus.gov/ency/article/003608.htm
 https://www.albertahealthservices.ca/assets/info/nutrition/if-nfs-low-blood-sugar-and-kidney-disease.pdf
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689888/
 https://www.kidney.org/atoz/content/understanding-your-lab-values
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6422977/
+
+
+Inconclusive studies about UNa levels and CKD:
+https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-016-0338-z
+https://www.sciencedirect.com/science/article/pii/S0085253815303203
