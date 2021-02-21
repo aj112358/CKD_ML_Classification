@@ -21,14 +21,14 @@ Eq -> An *equivalent* is the amount of a substance that will react with a certai
 Attribute | Units | Meaning | Description | Relation to CKD
 ---- | ---- | ---- | ---- | ----
 ag | years | age | Age of each patient participant. | CKD can present in individuals of any age
-bp | mmHg | blood pressure | Blood pressure of each patient participant. | Generally higher.
+bp | mmHg | blood pressure | Blood pressure of each patient participant, appearing to be only the diastolic measurement. | Generally higher.
 sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1 (because urine has dissolved salts/minerals). Closer to 1.000 in CKD patients, as kidneys lose ability to reabsorb water.
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
-su | ??? | sugar | *what is this???* | ----
-rbc | Normal/Abnormal | red blood cells | *is this urinary RBC?????* | ----
-pc | Normal/Abnormal | pus cell | ??? | ----
-pcc | Present/Not Present | pus cell clumps | Measurement of pus cell clumps in the urine. | ----
-ba | Present/Not Present | bacteria | ??? | ----
+su | ??? | sugar | Level of urine glucose. | ----
+rbc | Normal/Abnormal | red blood cells | Level of RBCs in the urine. | ----
+pc | Normal/Abnormal | pus cell | Level of pus cells in the urine. | ----
+pcc | Present/Not Present | pus cell clumps | Presence of pus cell clumps in the urine. | Presence indicates signs of an infections, usually(?) as a UTI (indeed, can involve ureters, kidneys, upper urinary tract, in addition to bladder and urethra.
+ba | Present/Not Present | bacteria | Presence of bacteria in the urine. | ----
 bgr | mgs/dl | blood glucose random | Random measurement of blood glucose levels. | Lower blood glucose levels in CKD patients.
 bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
 sc | mgs/dl | serum creatinine | Creatinine is a waste product in blood resulting from muscle activity. | Higher in patients with CKD.
