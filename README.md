@@ -24,20 +24,20 @@ ag | years | age | Age of each patient participant. | CKD can present in individ
 bp | mmHg | blood pressure | Blood pressure of each patient participant. | Generally higher.
 sg | DMLS | specific gravity | Ratio of densities of patient urine sample and water. | Always greater than 1 (because urine has dissolved salts/minerals). Closer to 1.000 in CKD patients, as kidneys lose ability to reabsorb water.
 al | ??? | albumin | A protein produced in the liver helps with transport of hormones, medicines, etc. | Low levels of albumin in the blood.
-su | ??? | sugar | ??? | ----
-rbc | ??? | red blood cells | ??? | ----
-pc | ??? | pus cell | ??? | ----
-pcc | ??? | pus cell clumps | ??? | ----
-ba | ??? | bacteria | ??? | ----
-bgr | mgs/dl | blood glucose random | ??? | Lower blood glucose levels in CKD patients.
+su | ??? | sugar | *what is this???* | ----
+rbc | Normal/Abnormal | red blood cells | *is this urinary RBC?????* | ----
+pc | Normal/Abnormal | pus cell | ??? | ----
+pcc | Present/Not Present | pus cell clumps | Measurement of pus cell clumps in the urine. | ----
+ba | Present/Not Present | bacteria | ??? | ----
+bgr | mgs/dl | blood glucose random | Random measurement of blood glucose levels. | Lower blood glucose levels in CKD patients.
 bu | mgs/dl | blood urea | A waste product in blood resulting from the breakdown of proteins. | Higher in patients with CKD.
 sc | mgs/dl | serum creatinine | Creatinine is a waste product in blood resulting from muscle activity. | Higher in patients with CKD.
 sod | mEq/L | sodium | Urinary sodium levels. | Believed to be higher, but not enough evidence from studies (need reference).
 pot | mEq/L | potassium | Urinary potassium levels. | Believed to be lower.
 hemo | gms | hemoglobin | A protein in RBCs that carries oxygen from the lungs to body tissues, and carries carbon dioxide in reverse. | Lower in patients with CKD.
-pcr | ??? | packed cell volume | ??? | ----
+pcv | ??? | packed cell volume | ??? | ----
 wbcc | cells/mm3| white blood cell count | Number of WBCs in a blood sample, usually measured in microliters or cubic-millimeters. | Elevated WBCC is a well-known predictor of CKD, except in elderly patients who may exhibit low WBC (due to being in an already diseased state).
-rbcc | millions/cmm | red blood cell count | ??? | ----
+rbcc | millions/mm3 | red blood cell count | Number of RBCs in a blood sample | Appear to be lower in CKD patients.
 htn | Yes/No | hypertension | Higher than normal blood pressure. | Generally present in CKD patients.
 dm | Yes/No | diabetes mellitus | A disease which causes insufficient production of insulin, a hormone that regulates blood sugar. | A risk factor for KD; can injure the kidney blood vessels. The converse may also be true: Kidney failure can cause diabetes.
 cad | Yes/No | coronary artery disease | A qualitative measure of whether a patient presented with coronary artery disease (major blood vessels in heart become damaged). | Appears to be an independent condition from CKD, but are risk factors of eachother. 
@@ -80,7 +80,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4919657/
 http://www.bcrenal.ca/resource-gallery/Documents/Management%20of%20Poor%20Appetite%20in%20Patients%20with%20Chronic%20Kidney%20Disease.pdf
 https://pubmed.ncbi.nlm.nih.gov/24527682/
 https://www.acc.org/latest-in-cardiology/ten-points-to-remember/2019/09/30/15/47/chronic-kidney-disease-and-coronary-artery-disease
-
+https://www.niddk.nih.gov/health-information/kidney-disease/anemia
+https://www.jahjournal.org/article.asp?issn=1658-5127;year=2019;volume=10;issue=2;spage=61;epage=66;aulast=Shastry
 
 Inconclusive studies about UNa levels and CKD:
 https://bmcnephrol.biomedcentral.com/articles/10.1186/s12882-016-0338-z
